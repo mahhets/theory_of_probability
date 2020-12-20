@@ -1,1 +1,1 @@
-# theory_of_probability
+# theory_of_probability on GeekBrains
